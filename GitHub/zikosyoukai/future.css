@@ -1,0 +1,10 @@
+body{
+  background: url(imgziko/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+h2{
+  color: red;
+}

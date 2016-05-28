@@ -1,0 +1,115 @@
+.center-content h1{
+  color: #F5F5F5;
+  font-size: 70px;
+  padding: 170px 0px 0px 0px;
+  margin-left: 15px;
+ }
+
+.center-nav .center-nav-link{
+  color: #564af7;
+  font-size: 50px;
+  margin-left: 200px;
+  list-style: none;
+  display: block;
+  opacity: 0.3;
+  margin-top: 125px;
+  height: 140px;
+  width: 35%;
+  background-color: #312e65;
+  border-radius: 100px;
+  text-align: center;
+  padding: 50px 0px 0px 5px;
+  box-shadow: 10px 2px 0.1 #312e65 inset;
+}
+.center-content{
+  display: block;
+  width: 600px;
+  margin: 0px 5px 0px 165px;
+  height: 690px;
+  float: left;
+  text-align: center;
+}
+.center-nav .center-nav-link:hover{
+  opacity: 0.5;
+}
+
+body{
+  width: 100%;
+  height: 1000px;
+  background: url(imgziko/top-back.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+.left-content{
+    display: block;
+    margin: 5px 60px 5px 50px;
+    width: 40px;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.left-content ul{
+  text-align: center;
+  list-style: none;
+  margin-top: 15px;
+}
+
+.left-content li{
+  text-align: center;
+  padding-top: 130px;
+  padding-left: 70px;
+  font-size: 30px;
+}
+
+.left-content hr{
+  width: 25%;
+}
+
+.left-content .left-nav-link{
+    color: #3838b0;
+    opacity: 1;
+}
+
+.left-content .left-nav-link:hover{
+  opacity: 0.5;
+}
+
+.right-content ul{
+  text-align: center;
+  list-style: none;
+  margin-top: 23px;
+}
+
+.right-content li{
+  text-align: center;
+  padding-top: 130px;
+  padding-left: 20px;
+  font-size: 30px;
+}
+
+.right-content hr{
+  width: 25%;
+}
+
+.right-content .right-nav-link{
+    color: #3838b0;
+    opacity: 1;
+}
+
+.right-content .right-nav-link:hover{
+  opacity: 0.7;
+}
+
+.right-content{
+    display: block;
+    margin: 5px 60px 5px 30px;
+    width: 40px;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+}
